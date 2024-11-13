@@ -1,0 +1,8 @@
+# github commamds
+
+git init
+
+git config --global user.name "siddhi"
+git config --global user.email "guptasiddhi652@gmail.com"
+
+git add .
